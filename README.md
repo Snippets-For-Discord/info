@@ -9,7 +9,7 @@ Some simple, free to use, CSS/SCSS snippets for Discord client mods, such as:
 - **[Goosemod](https://goosemod.com/)** (most likely)
 
 # How does this work?
-Most of the snippts allow the users to easily apply them, whether they copy-paste the code into their Quick CSS, or installing as if it's a theme. However, some snippets are meant **strictly** for enhancing themes, such as [Snapper's](https://github.com/Snapperito) [Theme Warnings](https://github.com/Snippets-For-Discord/theme-warnings).
+Most of the snippts allow the users to easily apply them, whether they copy-paste the code into their Quick CSS, or installing as if it's a theme. However, some snippets are meant **strictly** for enhancing themes, such as [Snapper's](https://github.com/Snapperito) **[Theme Warnings](https://github.com/Snippets-For-Discord/theme-warnings)**.
 
 It is also highly recommended to use the snippets locally, and not importing from githubusercontent / githack links. Everything is fairly customizable, and it's better to use this type of practice anyways since it's a much smoother experience.
 
