@@ -6,7 +6,7 @@ Some handy CSS/SCSS snippets for Discord client mods, such as:
 - **[BetterDiscord](https://betterdiscord.net/)**
 - **[Powercord](https://powercord.dev/)**
 - **[Vizality](https://vizality.com/)** 
-- **[Goosemod](https://goosemod.com/)**
+- **[Goosemod](https://goosemod.com/)** (most likely)
 
 # How does this work?
 Most snippets can be applied to themes or a user can take them as is, but some, such as [Theme Warnings](https://github.com/Snippets-For-Discord/theme-warnings) is strictly for themes as they help enhance it. 
