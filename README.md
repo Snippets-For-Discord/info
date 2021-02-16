@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](./assets/banner.png)
 
 # Snippets for Discord
 Some handy CSS/SCSS snippets for Discord client mods, such as:
